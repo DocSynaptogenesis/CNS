@@ -27,7 +27,7 @@ os.chdir('  ')
 
 ff = ffmpy3.FFmpeg(
     inputs = {'...file name...': None},
-    outputs = {'...file name...': "-s 3840x2160" } 
+    outputs = {'...file name...': "-s 3840x2160" } # resolution ran successfully, resulting video played successfully
 )
 
 ff.run()

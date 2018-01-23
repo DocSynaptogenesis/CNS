@@ -2,7 +2,7 @@
 ###################################################################
 ##############################################
 
-#          Author: DocSynaptogenesis
+#          Author: syknapptic
 #          File Name: mxf_converter.py
 #          Project: NA
 #
